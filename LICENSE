@@ -1,0 +1,6 @@
+This project is a derivative work based on Google’s Gemma model.
+
+The base model (google/gemma-4-e4b-it) is licensed under the Gemma license.
+
+Use of this repository and associated model weights is subject to the Gemma license:
+https://ai.google.dev/gemma/terms
